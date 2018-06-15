@@ -8,6 +8,7 @@ public class main {
 
     void start(){
         helloWorld();
+        helloWorld();
     }
 
     public static void main(String[] args) {
