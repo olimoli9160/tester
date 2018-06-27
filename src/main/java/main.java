@@ -4,6 +4,13 @@ public class main {
 
     void helloWorld(){
         System.out.println("Hey World!");
+        System.out.println("Hey World!");
+        System.out.println("Hey World!");
+        System.out.println("Hey World!");
+        System.out.println("Hey World!");
+        System.out.println("Hey World!");
+        System.out.println("Hey World!");
+        System.out.println("Hey World!");
     }
 
     void start(){
