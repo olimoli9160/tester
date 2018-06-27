@@ -2,25 +2,12 @@ public class main {
 
     main(){}
     
-    /*void bogus(){
+    void bogus(){
         System.out.println("this function is not called");
-    }*/
+    }
 
     void helloWorld(){
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
-        System.out.println("Hey World!");
+        System.out.println("Hello, World!");
     }
 
     void start(){
