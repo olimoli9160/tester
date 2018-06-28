@@ -2,6 +2,10 @@ public class main {
 
     main(){}
     
+    /*void bogus2(){
+        System.out.println("this function is not called");
+    }*/
+    
     /*void bogus(){
         System.out.println("this function is not called");
     }*/
@@ -13,6 +17,15 @@ public class main {
          System.out.println("Hello, World!");
          System.out.println("Hello, World!");
          System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+         System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
          System.out.println("Hello, World!");
          System.out.println("Hello, World!");
          System.out.println("Hello, World!");
