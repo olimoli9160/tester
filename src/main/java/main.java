@@ -8,10 +8,10 @@ public class main {
 
     void helloWorld(){
         System.out.println("Hello, World!");
+        System.out.println("Hey, World!");
     }
 
     void start(){
-        helloWorld();
         helloWorld();
     }
 
