@@ -32,6 +32,32 @@ public class main {
     int x = 24;
     int y = 25;
     int z = 26;
+    int aa = 11;
+    int bb = 22;
+    int cc = 33;
+    int dd = 44;
+    int ee = 55;
+    int ff = 66;
+    int gg = 77;
+    int hh = 88;
+    int ii = 99;
+    int jj = 1010;
+    int kk = 1111;
+    int ll = 1212;
+    int mm = 1313;
+    int nn = 1414;
+    int oo = 1515;
+    int pp = 1616;
+    int qq = 1717;
+    int rr = 1818;
+    int ss = 1919;
+    int tt = 2020;
+    int uu = 2121;
+    int vv = 2222;
+    int ww = 2323;
+    int xx = 2424;
+    int yy = 2525;
+    int zz = 2626;
     
     //need to refactor
     void helloWorld(){
