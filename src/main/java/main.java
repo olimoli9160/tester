@@ -2,10 +2,6 @@ public class main {
 
     main(){}
     
-    /*void bogus(){
-        boolean notCalled = true;
-    }*/
-    
     /*void bogus2(){
         System.out.println("this function is not called");
     }*/
