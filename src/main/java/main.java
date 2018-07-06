@@ -6,7 +6,7 @@ public class main {
         System.out.println("this function is not called");
     }
     
-    //need to refactor
+    //don't need to refactor
     void helloWorld(){
         System.out.println("Hello, World!");
     }
