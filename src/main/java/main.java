@@ -2,9 +2,9 @@ public class main {
 
     main(){}
     
-    /*void bogus2(){
+    void bogus2(){
         System.out.println("this function is not called");
-    }*/
+    }
     
     int a = 1;
     int b = 2;
@@ -61,36 +61,6 @@ public class main {
     
     //need to refactor
     void helloWorld(){
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
         System.out.println("Hello, World!");
     }
 
