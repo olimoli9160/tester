@@ -2,8 +2,24 @@ public class main {
 
     main(){}
     
+     void bogus1(){
+        System.out.println("this function is not called!");
+    }
+     
     void bogus2(){
         System.out.println("this function is not called often!");
+    }
+    
+    void bogus3(){
+        String s = "not called";
+    }
+    
+     void bogus4(){
+        int true = 0;
+    }
+    
+    void bogus5(){
+        boolean called = false;
     }
     
     void ints10(){
