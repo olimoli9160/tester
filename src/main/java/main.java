@@ -3,7 +3,7 @@ public class main {
     main(){}
     
     void bogus2(){
-        System.out.println("this function is not called");
+        System.out.println("this function is not called often!");
     }
     
     int a = 1;
@@ -59,7 +59,6 @@ public class main {
     int yy = 2525;
     int zz = 2626;
     
-    //need to refactor
     void helloWorld(){
         System.out.println("Hello, World!");
     }
