@@ -142,8 +142,8 @@ public class main {
         System.out.println(x);
         System.out.println(x + x);
         
-        ints10();
-        ints20();
+        //ints10();
+        //ints20();
         
         ints30();
         ints40();
