@@ -113,6 +113,42 @@ public class main {
         int x =2; 
         System.out.println(x);
         System.out.println(x + x);
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        
+        ints10();
+        ints20();
+        ints30();
+        ints40();
+        intsRemainder();
+
+        
+        ints10();
+        ints20();
+        ints30();
+        ints40();
+        intsRemainder();
+
+        
+        ints10();
+        ints20();
+        ints30();
+        ints40();
+        intsRemainder();
+
+        
+        ints10();
+        ints20();
+        ints30();
+        ints40();
+        intsRemainder();
+
     }
 
     void start(){
