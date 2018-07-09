@@ -84,10 +84,35 @@ public class main {
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
+        
+        int ooo = 151515;
+        int ppp = 161616;
+        int qqq = 171717;
+        int rrr = 181818;
+        int sss = 191919;
+        int ttt = 202020;
+        int uuu = 212121;
+        int vvv = 222222;
+        int www = 232323;
+        int xxx = 242424;
+        int yyy = 252525;
+        int zzz = 262626;
+        
+        ints10();
+        ints20();
+        ints30();
+        ints40();
+        intsRemainder();
+        
+        ints10();
+        ints20();
+        ints30();
+        ints40();
+        intsRemainder();
 
         int x =2; 
         System.out.println(x);
-        System.out.println(x);
+        System.out.println(x + x);
     }
 
     void start(){
