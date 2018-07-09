@@ -2,9 +2,9 @@ public class main {
 
     main(){}
     
-     void bogus1(){
+     /*void bogus1(){
         System.out.println("this function is not called!");
-    }
+    }*/
      
     void bogus2(){
         System.out.println("this function is not called often!");
