@@ -81,9 +81,6 @@ public class main {
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
         
         int ooo = 151515;
         int ppp = 161616;
@@ -113,7 +110,6 @@ public class main {
         int x =2; 
         System.out.println(x);
         System.out.println(x + x);
-        System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
