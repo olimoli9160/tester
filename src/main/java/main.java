@@ -76,7 +76,10 @@ public class main {
     // we testing!
     void helloWorld(){
         //System.out.println("Hello, World!");
-        //System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        int x =2; 
+        System.out.println(x);
+        //System.out.println(x+x);
     }
 
     void start(){
