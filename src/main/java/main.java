@@ -6,9 +6,9 @@ public class main {
         System.out.println("this function is not called often!");
     }
     
-    int a = 1;
-    int b = 2;
-    int c = 3;
+    //int a = 1;
+    //int b = 2;
+    //int c = 3;
     int d = 4;
     int e = 5;
     int f = 6;
@@ -61,6 +61,7 @@ public class main {
     
     // we testing!
     void helloWorld(){
+        System.out.println("Hello, World!");
         System.out.println("Hello, World!");
     }
 
