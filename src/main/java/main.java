@@ -120,7 +120,6 @@ public class main {
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
         
         ints10();
         ints20();
@@ -128,20 +127,28 @@ public class main {
         ints40();
         intsRemainder();
 
+        System.out.println(x);
+        System.out.println(x + x);
         
         ints10();
         ints20();
+        
         ints30();
         ints40();
+        int sss = 191919;
+        int ttt = 202020;
+        int uuu = 212121;
         intsRemainder();
 
         
         ints10();
         ints20();
-        ints30();
         ints40();
         intsRemainder();
 
+        int sss = 191919;
+        int ttt = 202020;
+        int uuu = 212121;
         
         ints10();
         ints20();
