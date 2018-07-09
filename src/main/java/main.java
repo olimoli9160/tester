@@ -77,6 +77,11 @@ public class main {
     void helloWorld(){
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+
         int x =2; 
         System.out.println(x);
         System.out.println(x);
