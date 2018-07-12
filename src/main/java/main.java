@@ -62,6 +62,16 @@ public class main {
     //need to refactor
     void helloWorld(){
         System.out.println("Hello, World!");
+                System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+
     }
 
     void start(){
