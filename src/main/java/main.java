@@ -59,7 +59,6 @@ public class main {
     int yy = 2525;
     int zz = 2626;
     
-    //need to refactor
     void helloWorld(){
         System.out.println("Hello, World!");
     }
