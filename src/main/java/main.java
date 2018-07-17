@@ -62,6 +62,13 @@ public class main {
     //commit
     void helloWorld(){
         System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
     }
 
     void start(){
