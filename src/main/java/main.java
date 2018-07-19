@@ -1,7 +1,7 @@
 public class main {
 
     main(){}
-    //blagh
+
     void bogus2(){
         System.out.println("this function is not called");
     }
