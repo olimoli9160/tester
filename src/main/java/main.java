@@ -1,6 +1,5 @@
 public class main {
 
-    main(){
         int a = 1;
         int b = 2;
         int c = 3;
@@ -53,7 +52,9 @@ public class main {
         int xx = 2424;
         int yy = 2525;
         int zz = 2626;
-    }
+
+    
+    main(){}
 
     void bogus2(){
         System.out.println("this function is not called");
