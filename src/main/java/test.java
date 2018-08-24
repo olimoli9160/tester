@@ -60,6 +60,15 @@ public class test {
     // ready for testing
     void helloWorld(){
         System.out.println("Hello, World!");
+            System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
     }
 
     void start(){
