@@ -1,4 +1,4 @@
-public class main {
+public class test {
 
         int a = 1;
         int b = 2;
@@ -53,11 +53,8 @@ public class main {
         int yy = 2525;
         int zz = 2626;
 
-    
-    main(){}
-
     void bogus2(){
-        System.out.println("this function is not called");
+        System.out.println("What does this program even do?");
     }
     
     //commit
@@ -81,6 +78,6 @@ public class main {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        new main().start();
+        new test().start();
     }
 }
